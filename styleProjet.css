@@ -1,0 +1,72 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background-color: antiquewhite;
+}
+
+.form {
+    width: 50%;
+    background-color: aqua;
+    padding: 40px;
+    margin: 10px;
+    border-radius: 10px;
+    text-align: center;
+}
+.date{
+    margin: auto;
+    padding: 10px;
+    border: 1px solid #584f4f;
+}
+.hD{
+    margin: auto;
+    padding: 10px;
+    border: 1px solid #584f4f;
+}
+.hA{
+    margin: auto;
+    padding: 10px;
+    border: 1px solid #584f4f;
+}
+.km{
+    margin: auto;
+    padding: 10px;
+    border: 1px solid #584f4f;
+}
+.meteo{
+    margin: auto;
+    padding: 10px;
+    border: 1px solid #584f4f;
+}
+
+button{
+    background-color: cadetblue;
+    color: white;
+    padding: 10px;
+    transition: 0.5s;
+    cursor: pointer;
+}
+.boutton:hover{
+    color: beige;
+    transform: scale(0.9);
+}
+
+.varVm {
+    margin: auto;
+    padding: 10px;
+    border: 1px solid #584f4f;
+}
+
+.idVar {
+    margin: auto;
+    padding: 10px;
+    border: 1px solid #584f4f;
+}
+
+.incident {
+
+    padding: 5px;
+
+}
